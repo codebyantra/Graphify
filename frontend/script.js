@@ -1,9 +1,7 @@
-// Graphify Creative Studio - Vanilla JavaScript version
-// No React / JSX / TSX / Vite required.
 
-const EMAILJS_PUBLIC_KEY = "YOUR_EMAILJS_PUBLIC_KEY";
-const EMAILJS_SERVICE_ID = "YOUR_EMAILJS_SERVICE_ID";
-const EMAILJS_TEMPLATE_ID = "YOUR_EMAILJS_TEMPLATE_ID";
+const EMAILJS_PUBLIC_KEY = "xqcFVFkcLDGlD87Ye";
+const EMAILJS_SERVICE_ID = "service_rtqz1ms";
+const EMAILJS_TEMPLATE_ID = "template_qtc1mb6";
 
 document.addEventListener("DOMContentLoaded", () => {
   const preloader = document.getElementById("preloader");

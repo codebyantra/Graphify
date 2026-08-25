@@ -71,9 +71,7 @@ Graphify/
 │   ├── script.js
 │   │
 │   └── assets/
-│       ├── images/
-│       └── logo/
-│
+│      
 ├── backend/
 │
 ├── .gitignore
@@ -89,19 +87,6 @@ The main goal of Graphify Creative Studio is to create a professional agency web
 The project is also being developed with scalability in mind, allowing backend functionality and additional features to be integrated in future development stages.
 
 ---
-
-## 🚀 Future Improvements
-
-* [ ] Complete backend development
-* [ ] Connect the client enquiry form to the backend
-* [ ] Add email notification functionality
-* [ ] Add database integration
-* [ ] Add CMS/admin functionality
-* [ ] Improve accessibility
-* [ ] Add additional interactive animations
-* [ ] Optimize website performance
-* [ ] Deploy the complete project
-
 ---
 
 ## 📌 Project Status
